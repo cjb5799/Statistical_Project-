@@ -12,11 +12,8 @@ output:
 
 ## R Markdown
 
-Title:    Exercise 9 Student Survey
+Title:    Student Survey
 
-Author:   Carla Bradley
-
-Date:    01/05/2021
 
 
 ```{r include = FALSE}
@@ -120,8 +117,6 @@ cov(student_srv$TimeTV,student_srv$Happiness)
   I dont believe there is a problem if units of measurement are change as long the TimeTV and  TimeReading variables has the same type of  unit measurement since this will determine the type of   techniques to be used for statistical analysis.
 
 #
-
-
 
 
 
